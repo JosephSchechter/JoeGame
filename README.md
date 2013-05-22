@@ -12,6 +12,6 @@ multiplayer support
 character classes
 various projectile types
 other mob characters
-I will implement my own sprites, and not use other people's work
+I will implement my own sprites, and not use other people's drawings
 
 this is based off the 2D game making tutorial from TheCherno
